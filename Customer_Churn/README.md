@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis – Business & Data Perspective
+# Telco Customer Churn Analysis – 
 
 Hi! , This repository contains my end-to-end Exploratory Data Analysis (EDA) on the **Telco Customer Churn dataset**.  
 
